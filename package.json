@@ -1,0 +1,11 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "personal blockchain project with typescript",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts" : { "start": "tsc && node dist/index.js" },
+  "devDependencies": {
+    "tsc-watch": "^4.0.0"
+  }
+}
